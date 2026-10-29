@@ -2467,7 +2467,7 @@
     "name": "Jules",
     "dateOpen": "2024-12-11",
     "dateClose": "2026-12-31",
-    "link": "https://jules.google/docs/changelog/",
+    "link": "https://jules.google/docs/changelog/2026-10-29",
     "description": "Jules was an asynchronous AI coding agent in Google Labs that integrated with GitHub repositories to autonomously fix bugs, write tests, and build features.",
     "type": "service"
   }
